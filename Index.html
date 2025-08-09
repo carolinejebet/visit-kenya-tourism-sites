@@ -1,0 +1,72 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  
+ <title>Tourism in Kenya</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: wheat;
+      text-align: center;
+    }
+
+    header {
+      background-color: wheat;
+      padding: 20px;
+      border-radius: 10px;
+    }
+
+    .tourist-spot {
+      margin: 30px;
+    }
+
+    .tourist-spot img {
+      width: 300px;
+      height: 200px;
+      border-radius: 10px;
+    }
+
+    .links a {
+      display: block;
+      margin: 10px;
+      font-weight: bold;
+      color: darkgreen;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>TOURISM IN KENYA</h1>
+    <h2><marquee>KENYA IS A BEAUTIFUL COUNTRY</marquee></h2>
+  </header>
+
+  <div class="tourist-spot">
+    <h2>Maasai Mara National Reserve</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Masai_Mara_3.jpg" alt="Maasai Mara">
+    <div class="links">
+      <a href="https://www.maasaimara.com" target="_blank">Visit Maasai Mara Website</a>
+    </div>
+  </div>
+
+  <div class="tourist-spot">
+    <h2>Amboseli National Park</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Elephants_Amboseli.jpg" alt="Amboseli National Park">
+    <div class="links">
+      <a href="https://www.kws.go.ke/amboseli-national-park" target="_blank">Learn about Amboseli Park</a>
+    </div>
+  </div>
+
+  <div class="tourist-spot">
+    <h2>Kerio Valley</h2>
+    <img src="https://upload.https://commons.wikimedia.org/wiki/File:Kerio_valley.jpg" alt="Kerio valley">
+    <div class="links">
+      <a href="https://abiri.home.blog/counties/elgeyo-marakwet-county/kerio-valley-3/" target="_blank">Explore- kerio valley</a>
+    </div>
+  </div>
+
+</body>
+</html>
